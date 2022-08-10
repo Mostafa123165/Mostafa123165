@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mostafa Tarek 👋</h1>
+<h1 align="center">Hi, I'm Mostafa 👋</h1>
 <h3 align="center">Flutter Developer 💎</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 <p align="center">
