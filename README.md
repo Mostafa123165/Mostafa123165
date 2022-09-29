@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi, I'm Mostafa 👋</h1>
 <h3 align="center">Flutter Developer 💎</h3>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 <p align="center">
     <a href="https://www.facebook.com/profile.php?id=100040970040745"><img src="https://img.shields.io/badge/facebook-%230177Bstyle=flat&logo=facebook&logoColor=white"/</a>
     <a href="https://www.linkedin.com/in/mostafa-tarek-035747217/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/</a>
