@@ -13,9 +13,9 @@ I'm a Flutter devloper and competitive programer
 
 
 <h3> 🔍 Good knowledge of Using Flutter-bloc State Management. </h3>
-<h3> 🔍 Writing clean code based on business layers </h3>
-<h3> 🔍 Using solid principle  </h3>
-<h3> 🔍 Dealing SQflite - Local database -. </h3>
+<h3> 🔍 Writing clean code based on business layers. </h3>
+<h3> 🔍 Using solid principle.  </h3>
+<h3> 🔍 Dealing SQflite - Local database . </h3>
 <h3> 🔍 Dealing with null safety. </h3>
 <h3> 🔍 I like algorithms and date structers. </h3>
 
