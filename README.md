@@ -20,6 +20,6 @@
 
 ### Rofood Order
 -  Rofood Provides restaurant management services  ( Create invoices , Replaces invoice , Complete Pending invoice , Complete Temp invoice , Replace and Complete Insurance invoices  ,  Manage tables in restaurant , Add , Withdraw and close the cashier ,  )
-<p><a href="https://play.google.com/store/apps/details?id=com.tanxe.rofood_app" target="_blank"><img alt="Google Play"
+<p><a href="https://play.google.com/store/apps/details?id=com.tanxe.rofood_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/jameel-salon-at-home/id1586524531" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 
